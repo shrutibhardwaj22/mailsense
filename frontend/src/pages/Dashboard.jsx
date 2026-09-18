@@ -36,7 +36,7 @@ function Dashboard() {
     formData.append('file', file);
 
     // Use fetch for SSE streaming
-    fetch('http://localhost:5000/api/validate/bulk', {
+    fetch('https://mailsense-backend.onrender.com/api/validate/bulk', {
       method: 'POST',
       body: formData,
     }).then((response) => {
@@ -134,7 +134,7 @@ function Dashboard() {
   const handleDownloadPDF = async () => {
     try {
       const response = await axios.post(
-        'http://localhost:5000/api/report/download',
+        'https://mailsense-backend.onrender.com/api/report/download',
         { results, stats },
         { responseType: 'blob' }
       );
