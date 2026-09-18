@@ -175,9 +175,8 @@ MailSense is an email validation and intelligence platform that validates, corre
 
 ## Developer
 
-Built by **Your Name**
+Built by **Shruti Bhardwaj**
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
 
