@@ -167,16 +167,16 @@ MailSense is an email validation and intelligence platform that validates, corre
 
 ## Live Demo
 
-- Frontend: [https://mailsense.vercel.app](https://mailsense.vercel.app)
+- Frontend: [https://mailsense-fawn.vercel.app/](https://mailsense-fawn.vercel.app/)
 - Backend: [https://mailsense-backend.onrender.com](https://mailsense-backend.onrender.com)
-- GitHub: [https://github.com/yourusername/mailsense](https://github.com/yourusername/mailsense)
+- GitHub: [https://github.com/shrutibhardwaj22/mailsense](https://github.com/shrutibhardwaj22/mailsense)
 
 ---
 
 ## Developer
 
 Built by **Shruti Bhardwaj**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/shrutibhardwaj22](https://github.com/shrutibhardwaj22)
 
 ---
 

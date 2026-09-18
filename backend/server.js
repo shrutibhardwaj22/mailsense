@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(cors({
   origin: [
-    'https://mailsense-fawn.vercel.app/',
+    'https://mailsense-fawn.vercel.app',
     'http://localhost:3000'
   ]
 }));
