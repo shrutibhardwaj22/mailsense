@@ -75,31 +75,6 @@ MailSense is an email validation and intelligence platform that validates, corre
 
 ---
 
-## Tech Stack
-
-### Backend
-| Technology | Purpose |
-|------------|---------|
-| Node.js | Runtime environment |
-| Express.js | REST API framework |
-| DNS module | Live MX record lookups |
-| Multer | CSV file uploads |
-| csv-parser | Parse uploaded CSV files |
-| PDFKit | Generate PDF validation reports |
-| Razorpay | Payment integration |
-| dotenv | Environment variable management |
-| nodemon | Development auto-restart |
-
-### Frontend
-| Technology | Purpose |
-|------------|---------|
-| React.js | UI framework |
-| React Router | Page navigation |
-| Axios | API calls to backend |
-| React Toastify | Toast notifications |
-| CSS | Component styling |
-| Razorpay Checkout | Payment UI |
-
 ### Algorithms & Logic
 | Feature | How it works |
 |---------|-------------|
