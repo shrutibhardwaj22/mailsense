@@ -36,7 +36,7 @@ function Dashboard() {
     formData.append('file', file);
 
     // Use fetch for SSE streaming
-    fetch('https://mailsense-backend.onrender.com/api/validate/bulk', {
+    fetch('https://mailsense-backend-new.onrender.com/api/validate/bulk', {
       method: 'POST',
       body: formData,
     }).then((response) => {

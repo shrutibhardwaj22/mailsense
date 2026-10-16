@@ -19,7 +19,7 @@ function Home() {
 
     setLoading(true);
     try {
-      const res = await axios.post('https://mailsense-backend.onrender.com/api/validate/single', { email });
+      const res = await axios.post('https://mailsense-backend-new.onrender.com/api/validate/single', { email });
       setResult(res.data);
     } catch (err) {
       toast.error('Validation failed. Is the backend running?');
